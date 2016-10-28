@@ -17,7 +17,7 @@ min-width: 800px;
 }
 .flip-container, .front, .back {
 	width: 600px;
-	height: 750px;
+	height: 800px;
   background-color: white;
 }
 
